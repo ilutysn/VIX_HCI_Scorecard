@@ -11,7 +11,7 @@ Identify customers with characteristics of potential clients who have difficulty
 **Goals:**
 Improve loan approval process by identifying potential clients who are likely to have difficulty repaying loans.
 
-**Metrics**
+**Metrics:**
 Classification Report and AUC Score
 
 **Actions:**
