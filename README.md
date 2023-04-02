@@ -1,4 +1,4 @@
-# VIX_HCI_Scorecard
+# Home Credit Scorecard
 
 **Background:**
 
